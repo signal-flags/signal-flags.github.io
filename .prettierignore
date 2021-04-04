@@ -1,7 +1,5 @@
-dist/
+# .prettierignore
 
-*.md
-*.html
-*.json
-*.css
-*.min.js
+# Only look at html files in the website.
+docs/**/*.*
+!docs/**/*.html
