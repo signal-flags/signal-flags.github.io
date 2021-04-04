@@ -1,6 +1,6 @@
 {
   "name": "signal-flags.github.io",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "description": "The signalflags.org website",
   "private": true,
   "scripts": {
