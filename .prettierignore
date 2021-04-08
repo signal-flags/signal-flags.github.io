@@ -1,5 +1,0 @@
-# .prettierignore
-
-# Only look at html files in the website.
-docs/**/*.*
-!docs/**/*.html
